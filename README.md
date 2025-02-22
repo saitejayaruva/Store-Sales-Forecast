@@ -22,8 +22,8 @@ The dataset contains historical sales records, including:
 - Regions and customer segments
 
 ## 📷 Dashboard Preview
-<img src="/saitejayaruva/Store-Sales-Forecast/blob/main/Screenshot%202025-02-22%20153148.png" width="850" height="550" alt="Salary Dashboard Chart1">
-<img src="/saitejayaruva/Store-Sales-Forecast/blob/main/Screenshot%202025-02-22%20153203.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/saitejayaruva/Store-Sales-Forecast/blob/main/Screenshot 202025-02-22 20153148.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/saitejayaruva/Store-Sales-Forecast/blob/main/Screenshot 202025-02-22 20153203.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 
 
