@@ -24,6 +24,7 @@ The dataset contains historical sales records, including:
 ## 📷 Dashboard Preview
 
 
+
 ## 🚀 Getting Started
 1. **Download the dataset** (if publicly available) and open it in Power BI.
 2. **Load the data** into Power BI and explore interactive visualizations.
@@ -37,9 +38,4 @@ The dataset contains historical sales records, including:
 ## 🔗 Connect & Feedback
 I’d love to hear your thoughts! Feel free to share feedback, suggestions, or improvements. 😊
 
-📩 **Let's Connect:** [Your LinkedIn Profile](#)
 
----
-
-# 🔖 License
-This project is for educational purposes. Feel free to explore and build upon it!
