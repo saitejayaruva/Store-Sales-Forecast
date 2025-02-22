@@ -22,8 +22,8 @@ The dataset contains historical sales records, including:
 - Regions and customer segments
 
 ## 📷 Dashboard Preview
-<img src="/saitejayaruva/Store-Sales-Forecast/StoreSalesDashboard.png" width="850" height="550" alt="Store Sales Dashboard">
-<img src="/saitejayaruva/Store-Sales-Forecast/Sales30DaysForecast.png" width="850" height="550" alt="Sales 30 Days Forecast">
+<img src="StoreSalesDashboard.png" width="850" height="550" alt="Store Sales Dashboard">
+<img src="Sales30DaysForecast.png" width="850" height="550" alt="Sales 30 Days Forecast">
 
 
 
